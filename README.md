@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-3c99d6?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)
 
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://sass-lang.com/)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/multipage/)
 [![](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/-JavaScript-F7E018?style=flat-square&logo=Javascript&logoColor=ffffff)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-TypeScript-0074c2?style=flat-square&logo=Typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
