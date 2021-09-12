@@ -12,6 +12,7 @@
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 
 [![](https://img.shields.io/badge/-Angular-b9002d?style=flat-square&logo=Angular&logoColor=ffffff)](https://angular.io/)
+[![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Vue.js-3fb984?style=flat-square&logo=Vuedotjs&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Material-757575?style=flat-square&logo=materialdesign&logoColor=ffffff)](https://material.io/)
 [![](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
