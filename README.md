@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Desktop-KDE-1D99F3?style=flat-square&logo=kde&logoColor=ffffff)](https://kde.org/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-3c99d6?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
-[![](https://img.shields.io/badge/Editor-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)
+[![](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=ffffff)](https://neovim.io/)
 
 <img src="https://raw.githubusercontent.com/stanley2058/stanley2058/master/profile-summary-card-output/dracula/0-profile-details.svg" width="691">
 
