@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Archlinux-Rolling-39a2ef?style=flat-square&logo=Archlinux)](https://archlinux.org/)
+[![](https://img.shields.io/badge/Fedora-36-50a4db?style=flat-square&logo=Fedora)](https://getfedora.org/)
 [![](https://img.shields.io/badge/Desktop-KDE-1D99F3?style=flat-square&logo=kde&logoColor=ffffff)](https://kde.org/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-3c99d6?style=flat-square&logo=Visual-Studio-Code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
