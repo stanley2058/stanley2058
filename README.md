@@ -10,7 +10,7 @@
 ![](https://raw.githubusercontent.com/stanley2058/stanley2058/master/profile-summary-card-output/dracula/3-stats.svg) ![](https://raw.githubusercontent.com/stanley2058/stanley2058/master/profile-summary-card-output/dracula/4-productive-time.svg)
 [](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<img src="https://wakatime.com/share/@stanley2058/e536da44-b2ae-4e7b-b038-b967eac61a6d.svg" width="679">
+<img src="https://wakatime.com/share/@stanley2058/988316a3-965c-4042-a2fd-9adf8a917fd1.svg" width="679">
 
 #### What I used
 
