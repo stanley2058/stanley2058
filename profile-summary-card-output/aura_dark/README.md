@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/stanley2058/stanley2058/master/profile-summary-card-output/aura_dark/4-productive-time.svg)
-```
-
-    
